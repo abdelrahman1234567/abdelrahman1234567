@@ -2,7 +2,7 @@
 <h3 align="center">Competitive programmer</h3>
 
 
-- 🔭 I’m currently working at [Orange Digital Center as an Mobile Developer Intern](https://github.com/YasserGomma/FoodHub)
+- 🔭 I’m currently working at **NearCrowd project by NEAR protocol**
 
 - 🌱 I’m currently studying in **Red Sea STEM school**
 
