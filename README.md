@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @abdelrahman1234567
-- 👀 I’m interested in Artificial Intelligence, Robotics, and Informatics
-- 🌱 I’m currently learning Deep learning and Competitve programming including varios data structres and algorithms
-- 💞️ I’m looking to collaborate on a deep learning or robotics project
-- 📫 How to reach me https://www.linkedin.com/in/abdelrahman-awadallah/
+<h1 align="center">Hi 👋, I'm Abdelrahman Hossam</h1>
+<h3 align="center">Competitive programmer</h3>
 
-<!---
-abdelrahman1234567/abdelrahman1234567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 I’m currently working at [Orange Digital Center as an Mobile Developer Intern](https://github.com/YasserGomma/FoodHub)
+
+- 🌱 I’m currently studying in **Red Sea STEM school**
+
+- 👨‍💻 All of my projects are available at [https://github.com/abdelrahman1234567](https://github.com/abdelrahman1234567)
+
+- 💬 Ask me about **DS, Algorithms, C++, and robotics**
+
+- 📫 How to reach me **boudyalex321@gmail.com**
+
+- 📄 Know about from my [CV](https://drive.google.com/file/d/1LGTjn160qeNOZInWVMELxwSDHc08Nfd-/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abdelrahman-awadallah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasser-gomma-8b6a1216a/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdelrahman.alazizeia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yasserg1712" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Blobo2_Blobo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ewnacesirniaga" height="30" width="40" /></a>
+<a href="https://leetcode.com/boudyalex321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yassergomma204" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@boudyalex321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@_badloser" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
