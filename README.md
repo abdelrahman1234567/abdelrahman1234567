@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **DS, Algorithms, C++, and robotics**
 
-- 📫 How to reach me **boudyalex321@gmail.com**
+- 📫 How to reach me **abdelrahmen.1620025@stemredsea.moe.edu.eg**
 
 - 📄 Know about from my [CV](https://drive.google.com/file/d/1LGTjn160qeNOZInWVMELxwSDHc08Nfd-/view?usp=sharing)
 
