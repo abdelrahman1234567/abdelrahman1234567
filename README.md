@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abdelrahmen.1620025@stemredsea.moe.edu.eg**
 
-- 📄 Know about from my [CV](https://drive.google.com/file/d/1LGTjn160qeNOZInWVMELxwSDHc08Nfd-/view?usp=sharing)
+- 📄 Know about from my [CV](https://drive.google.com/file/d/19j7PZRV8n5hUDPatcLx-lB7jg5g78xAe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
