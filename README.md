@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working at **NearCrowd project by NEAR protocol**
 
-- 🌱 I’m currently studying in **Red Sea STEM school**
+- 🌱 I’m currently studying Computer Engineering at **Arab Academy for Science, Technology & Maritime Transport**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelrahman1234567](https://github.com/abdelrahman1234567)
 
 - 💬 Ask me about **DS, Algorithms, C++, and robotics**
 
-- 📫 How to reach me **abdelrahmen.1620025@stemredsea.moe.edu.eg**
+- 📫 How to reach me **abdelrahman.awadallah2@gmail.com**
 
 - 📄 Know about from my [CV](https://drive.google.com/file/d/19j7PZRV8n5hUDPatcLx-lB7jg5g78xAe/view?usp=sharing)
 
