@@ -2,8 +2,6 @@
 <h3 align="center">Competitive programmer</h3>
 
 
-- 🔭 I’m currently working at **NearCrowd project by NEAR protocol**
-
 - 🌱 I’m currently studying Computer Engineering at **Arab Academy for Science, Technology & Maritime Transport**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelrahman1234567](https://github.com/abdelrahman1234567)
